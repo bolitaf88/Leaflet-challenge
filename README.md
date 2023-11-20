@@ -1,7 +1,7 @@
 
-## Leaflet Challenge 
+# Leaflet Challenge 
 
-# Interactive Map with Earthquake and Tectonic Plate Data
+## Interactive Map with Earthquake and Tectonic Plate Data
 
 This code creates an interactive map using Leaflet.js library, integrating various tile layers and data sources. The map displays three base layers:
 
