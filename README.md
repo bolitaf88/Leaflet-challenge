@@ -47,7 +47,7 @@ Additionally, two data layers are added:
 - **Stamen Design:** Grayscale map tiles.
 - **OpenTopoMap Contributors:** Topography map data.
 - **USGS Earthquake Hazards Program:** Earthquake data source.
-- **Liang Yam - Edex teaching assistant
-- **Mitchell Stone - Edex TA
-- **Justin Bisal - TA
-- **James Newman - TA
+- **Liang Yam** - Edex teaching assistant
+- **Mitchell Stone** - Edex TA
+- **Justin Bisal** - TA
+- **James Newman** - TA
