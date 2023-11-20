@@ -22,8 +22,6 @@ Additionally, two data layers are added:
 ### Legend
 
 - The legend on the bottom-right corner represents earthquake depth intervals using different colors. It helps interpret the depth of earthquakes displayed on the map.
-### See the Full Map Below
-![FullMAP](https://github.com/bolitaf88/Leaflet-challenge/blob/main/Images/fullmap.png)
 
 ### How to Use
 
@@ -31,6 +29,9 @@ Additionally, two data layers are added:
 2. The map displays by default with the Default base layer.
 3. Use the layer control panel to toggle between base maps (Default, Grayscale, Topography) and additional overlays (Tectonic Plates, Earthquakes).
 4. Click on earthquake circles to view magnitude, depth, and location information in pop-up windows.
+
+ ### See the Full Map Below
+![FullMAP](https://github.com/bolitaf88/Leaflet-challenge/blob/main/Images/fullmap.png)
 
 ### Libraries Used
 
