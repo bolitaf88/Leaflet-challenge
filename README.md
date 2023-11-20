@@ -1,9 +1,5 @@
 
-##### Leaflet Challenge 
-
-Certainly! Here's a brief README for the provided code:
-
----
+## Leaflet Challenge 
 
 # Interactive Map with Earthquake and Tectonic Plate Data
 
