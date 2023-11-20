@@ -45,6 +45,6 @@ Additionally, two data layers are added:
 - **OpenTopoMap Contributors:** Topography map data.
 - **USGS Earthquake Hazards Program:** Earthquake data source.
 - **Liang Yam** - TA
-- **Mitchell Stone** - Edex TA
+- **Mitchell Stone** - TA
 - **Justin Bisal** - TA
 - **James Newman** - TA
