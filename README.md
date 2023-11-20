@@ -26,6 +26,8 @@ Additionally, two data layers are added:
 ### Legend
 
 - The legend on the bottom-right corner represents earthquake depth intervals using different colors. It helps interpret the depth of earthquakes displayed on the map.
+### See the Full Map Below
+![FullMAP](https://github.com/bolitaf88/Leaflet-challenge/blob/main/Images/fullmap.png)
 
 ### How to Use
 
